@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+p{
+    color: grey
+}
+
+div > p{
+    color: red;
+}
+
+.miparrafo > p{
+    color:blueviolet;
+}
+
